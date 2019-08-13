@@ -1,0 +1,11 @@
+C:\Users\magnar.kleppe\source\repos\PlayWaveFile\PlayWaveFile\bin\Release\netcoreapp2.2\PlayWaveFile.deps.json
+C:\Users\magnar.kleppe\source\repos\PlayWaveFile\PlayWaveFile\bin\Release\netcoreapp2.2\PlayWaveFile.runtimeconfig.json
+C:\Users\magnar.kleppe\source\repos\PlayWaveFile\PlayWaveFile\bin\Release\netcoreapp2.2\PlayWaveFile.runtimeconfig.dev.json
+C:\Users\magnar.kleppe\source\repos\PlayWaveFile\PlayWaveFile\bin\Release\netcoreapp2.2\PlayWaveFile.dll
+C:\Users\magnar.kleppe\source\repos\PlayWaveFile\PlayWaveFile\bin\Release\netcoreapp2.2\PlayWaveFile.pdb
+C:\Users\magnar.kleppe\source\repos\PlayWaveFile\PlayWaveFile\obj\Release\netcoreapp2.2\PlayWaveFile.csprojAssemblyReference.cache
+C:\Users\magnar.kleppe\source\repos\PlayWaveFile\PlayWaveFile\obj\Release\netcoreapp2.2\PlayWaveFile.csproj.CoreCompileInputs.cache
+C:\Users\magnar.kleppe\source\repos\PlayWaveFile\PlayWaveFile\obj\Release\netcoreapp2.2\PlayWaveFile.AssemblyInfoInputs.cache
+C:\Users\magnar.kleppe\source\repos\PlayWaveFile\PlayWaveFile\obj\Release\netcoreapp2.2\PlayWaveFile.AssemblyInfo.cs
+C:\Users\magnar.kleppe\source\repos\PlayWaveFile\PlayWaveFile\obj\Release\netcoreapp2.2\PlayWaveFile.dll
+C:\Users\magnar.kleppe\source\repos\PlayWaveFile\PlayWaveFile\obj\Release\netcoreapp2.2\PlayWaveFile.pdb
